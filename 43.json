@@ -1,0 +1,38 @@
+{
+    "name": "Fumo Maker #44",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: red, soda: fanta, sweater: blue with yellow ribbon sweater, skirt: black, rank: D.",
+    "external_url": "",
+    "image": "43.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "red"
+        },
+        {
+            "trait_type": "soda",
+            "value": "fanta"
+        },
+        {
+            "trait_type": "sweater",
+            "value": "blue with yellow ribbon sweater"
+        },
+        {
+            "trait_type": "skirt",
+            "value": "black"
+        },
+        {
+            "trait_type": "rank",
+            "value": "D"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "43.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

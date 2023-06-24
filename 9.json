@@ -1,0 +1,30 @@
+{
+    "name": "Fumo Maker #10",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: pink, skirt: leather, rank: D.",
+    "external_url": "",
+    "image": "9.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "pink"
+        },
+        {
+            "trait_type": "skirt",
+            "value": "leather"
+        },
+        {
+            "trait_type": "rank",
+            "value": "D"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "9.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

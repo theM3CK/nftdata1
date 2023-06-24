@@ -1,0 +1,38 @@
+{
+    "name": "Fumo Maker #13",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: pink, hats: bucket, soda: pepsi, sweater: star sweater, rank: A.",
+    "external_url": "",
+    "image": "12.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "pink"
+        },
+        {
+            "trait_type": "hats",
+            "value": "bucket"
+        },
+        {
+            "trait_type": "soda",
+            "value": "pepsi"
+        },
+        {
+            "trait_type": "sweater",
+            "value": "star sweater"
+        },
+        {
+            "trait_type": "rank",
+            "value": "A"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "12.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

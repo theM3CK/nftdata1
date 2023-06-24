@@ -1,0 +1,30 @@
+{
+    "name": "Fumo Maker #83",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: blue, soda: pepsi, sweater: blue with yellow ribbon sweater.",
+    "external_url": "",
+    "image": "82.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "blue"
+        },
+        {
+            "trait_type": "soda",
+            "value": "pepsi"
+        },
+        {
+            "trait_type": "sweater",
+            "value": "blue with yellow ribbon sweater"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "82.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

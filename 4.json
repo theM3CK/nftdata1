@@ -1,0 +1,30 @@
+{
+    "name": "Fumo Maker #5",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: black, soda: fanta, rank: C.",
+    "external_url": "",
+    "image": "4.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "black"
+        },
+        {
+            "trait_type": "soda",
+            "value": "fanta"
+        },
+        {
+            "trait_type": "rank",
+            "value": "C"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "4.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

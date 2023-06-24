@@ -1,0 +1,22 @@
+{
+    "name": "Fumo Maker #66",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: black.",
+    "external_url": "",
+    "image": "65.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "black"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "65.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Fumo Maker #61",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: purple, hats: maid, sweater: pink and red sweater.",
+    "external_url": "",
+    "image": "60.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "purple"
+        },
+        {
+            "trait_type": "hats",
+            "value": "maid"
+        },
+        {
+            "trait_type": "sweater",
+            "value": "pink and red sweater"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "60.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

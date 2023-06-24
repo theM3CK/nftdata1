@@ -1,0 +1,42 @@
+{
+    "name": "Fumo Maker #19",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: pink, hats: bucket, soda: pepsi, sweater: blue with yellow ribbon sweater, skirt: pixil-layer-Background-19, rank: SS.",
+    "external_url": "",
+    "image": "18.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "pink"
+        },
+        {
+            "trait_type": "hats",
+            "value": "bucket"
+        },
+        {
+            "trait_type": "soda",
+            "value": "pepsi"
+        },
+        {
+            "trait_type": "sweater",
+            "value": "blue with yellow ribbon sweater"
+        },
+        {
+            "trait_type": "skirt",
+            "value": "pixil-layer-Background-19"
+        },
+        {
+            "trait_type": "rank",
+            "value": "SS"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "18.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Fumo Maker #25",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: pink, soda: fanta, sweater: star sweater, skirt: black, rank: D.",
+    "external_url": "",
+    "image": "24.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "pink"
+        },
+        {
+            "trait_type": "soda",
+            "value": "fanta"
+        },
+        {
+            "trait_type": "sweater",
+            "value": "star sweater"
+        },
+        {
+            "trait_type": "skirt",
+            "value": "black"
+        },
+        {
+            "trait_type": "rank",
+            "value": "D"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "24.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

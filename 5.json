@@ -1,0 +1,30 @@
+{
+    "name": "Fumo Maker #6",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: purple, skirt: black, rank: C.",
+    "external_url": "",
+    "image": "5.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "purple"
+        },
+        {
+            "trait_type": "skirt",
+            "value": "black"
+        },
+        {
+            "trait_type": "rank",
+            "value": "C"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "5.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

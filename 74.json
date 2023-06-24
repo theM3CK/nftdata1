@@ -1,0 +1,22 @@
+{
+    "name": "Fumo Maker #75",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: pink.",
+    "external_url": "",
+    "image": "74.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "pink"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "74.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

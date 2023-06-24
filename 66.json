@@ -1,0 +1,34 @@
+{
+    "name": "Fumo Maker #67",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: red, soda: sprite, skirt: pixil-layer-Background-19, rank: A.",
+    "external_url": "",
+    "image": "66.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "red"
+        },
+        {
+            "trait_type": "soda",
+            "value": "sprite"
+        },
+        {
+            "trait_type": "skirt",
+            "value": "pixil-layer-Background-19"
+        },
+        {
+            "trait_type": "rank",
+            "value": "A"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "66.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

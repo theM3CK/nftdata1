@@ -1,0 +1,30 @@
+{
+    "name": "Fumo Maker #37",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: black, soda: pepsi, skirt: black.",
+    "external_url": "",
+    "image": "36.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "black"
+        },
+        {
+            "trait_type": "soda",
+            "value": "pepsi"
+        },
+        {
+            "trait_type": "skirt",
+            "value": "black"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "36.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

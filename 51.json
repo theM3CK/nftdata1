@@ -1,0 +1,30 @@
+{
+    "name": "Fumo Maker #52",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: blue, soda: fanta, skirt: leather.",
+    "external_url": "",
+    "image": "51.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "blue"
+        },
+        {
+            "trait_type": "soda",
+            "value": "fanta"
+        },
+        {
+            "trait_type": "skirt",
+            "value": "leather"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "51.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

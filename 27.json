@@ -1,0 +1,26 @@
+{
+    "name": "Fumo Maker #28",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: blue, soda: pepsi.",
+    "external_url": "",
+    "image": "27.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "blue"
+        },
+        {
+            "trait_type": "soda",
+            "value": "pepsi"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "27.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

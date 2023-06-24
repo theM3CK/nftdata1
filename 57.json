@@ -1,0 +1,38 @@
+{
+    "name": "Fumo Maker #58",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: blue, hats: bucket, soda: pepsi, sweater: pink and red sweater, skirt: blue and yellow.",
+    "external_url": "",
+    "image": "57.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "blue"
+        },
+        {
+            "trait_type": "hats",
+            "value": "bucket"
+        },
+        {
+            "trait_type": "soda",
+            "value": "pepsi"
+        },
+        {
+            "trait_type": "sweater",
+            "value": "pink and red sweater"
+        },
+        {
+            "trait_type": "skirt",
+            "value": "blue and yellow"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "57.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

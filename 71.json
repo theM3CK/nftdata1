@@ -1,0 +1,30 @@
+{
+    "name": "Fumo Maker #72",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: purple, soda: sprite, sweater: maid.",
+    "external_url": "",
+    "image": "71.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "purple"
+        },
+        {
+            "trait_type": "soda",
+            "value": "sprite"
+        },
+        {
+            "trait_type": "sweater",
+            "value": "maid"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "71.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

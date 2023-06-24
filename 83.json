@@ -1,0 +1,38 @@
+{
+    "name": "Fumo Maker #84",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: red, soda: pepsi, sweater: star sweater, skirt: black, rank: B.",
+    "external_url": "",
+    "image": "83.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "red"
+        },
+        {
+            "trait_type": "soda",
+            "value": "pepsi"
+        },
+        {
+            "trait_type": "sweater",
+            "value": "star sweater"
+        },
+        {
+            "trait_type": "skirt",
+            "value": "black"
+        },
+        {
+            "trait_type": "rank",
+            "value": "B"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "83.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

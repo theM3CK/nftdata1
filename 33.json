@@ -1,0 +1,34 @@
+{
+    "name": "Fumo Maker #34",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: purple, hats: yellow halo, sweater: pink sweater, skirt: blue and yellow.",
+    "external_url": "",
+    "image": "33.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "purple"
+        },
+        {
+            "trait_type": "hats",
+            "value": "yellow halo"
+        },
+        {
+            "trait_type": "sweater",
+            "value": "pink sweater"
+        },
+        {
+            "trait_type": "skirt",
+            "value": "blue and yellow"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "33.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

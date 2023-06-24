@@ -1,0 +1,38 @@
+{
+    "name": "Fumo Maker #15",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: red, soda: pepsi, sweater: blue with yellow ribbon sweater, skirt: pixil-layer-Background-19, rank: C.",
+    "external_url": "",
+    "image": "14.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "red"
+        },
+        {
+            "trait_type": "soda",
+            "value": "pepsi"
+        },
+        {
+            "trait_type": "sweater",
+            "value": "blue with yellow ribbon sweater"
+        },
+        {
+            "trait_type": "skirt",
+            "value": "pixil-layer-Background-19"
+        },
+        {
+            "trait_type": "rank",
+            "value": "C"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "14.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

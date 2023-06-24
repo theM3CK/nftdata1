@@ -1,0 +1,38 @@
+{
+    "name": "Fumo Maker #56",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: red, hats: white halo, sweater: star sweater, skirt: black, rank: C.",
+    "external_url": "",
+    "image": "55.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "red"
+        },
+        {
+            "trait_type": "hats",
+            "value": "white halo"
+        },
+        {
+            "trait_type": "sweater",
+            "value": "star sweater"
+        },
+        {
+            "trait_type": "skirt",
+            "value": "black"
+        },
+        {
+            "trait_type": "rank",
+            "value": "C"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "55.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

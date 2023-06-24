@@ -1,0 +1,30 @@
+{
+    "name": "Fumo Maker #62",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: black, soda: sprite, skirt: leather.",
+    "external_url": "",
+    "image": "61.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "black"
+        },
+        {
+            "trait_type": "soda",
+            "value": "sprite"
+        },
+        {
+            "trait_type": "skirt",
+            "value": "leather"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "61.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

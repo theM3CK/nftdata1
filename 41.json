@@ -1,0 +1,26 @@
+{
+    "name": "Fumo Maker #42",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: purple, sweater: star sweater.",
+    "external_url": "",
+    "image": "41.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "purple"
+        },
+        {
+            "trait_type": "sweater",
+            "value": "star sweater"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "41.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Fumo Maker #68",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: purple, hats: maid, soda: sprite, sweater: star sweater, rank: D.",
+    "external_url": "",
+    "image": "67.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "purple"
+        },
+        {
+            "trait_type": "hats",
+            "value": "maid"
+        },
+        {
+            "trait_type": "soda",
+            "value": "sprite"
+        },
+        {
+            "trait_type": "sweater",
+            "value": "star sweater"
+        },
+        {
+            "trait_type": "rank",
+            "value": "D"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "67.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

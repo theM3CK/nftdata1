@@ -1,0 +1,30 @@
+{
+    "name": "Fumo Maker #11",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: pink, soda: sprite, skirt: black.",
+    "external_url": "",
+    "image": "10.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "pink"
+        },
+        {
+            "trait_type": "soda",
+            "value": "sprite"
+        },
+        {
+            "trait_type": "skirt",
+            "value": "black"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "10.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

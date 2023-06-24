@@ -1,0 +1,34 @@
+{
+    "name": "Fumo Maker #76",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: pink, hats: bucket, soda: pepsi, skirt: pixil-layer-Background-19.",
+    "external_url": "",
+    "image": "75.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "pink"
+        },
+        {
+            "trait_type": "hats",
+            "value": "bucket"
+        },
+        {
+            "trait_type": "soda",
+            "value": "pepsi"
+        },
+        {
+            "trait_type": "skirt",
+            "value": "pixil-layer-Background-19"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "75.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Fumo Maker #36",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: black, sweater: pink and red sweater, rank: C.",
+    "external_url": "",
+    "image": "35.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "black"
+        },
+        {
+            "trait_type": "sweater",
+            "value": "pink and red sweater"
+        },
+        {
+            "trait_type": "rank",
+            "value": "C"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "35.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

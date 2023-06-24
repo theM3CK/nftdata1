@@ -1,0 +1,34 @@
+{
+    "name": "Fumo Maker #24",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: blue, hats: yellow halo, soda: sprite, rank: C.",
+    "external_url": "",
+    "image": "23.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "blue"
+        },
+        {
+            "trait_type": "hats",
+            "value": "yellow halo"
+        },
+        {
+            "trait_type": "soda",
+            "value": "sprite"
+        },
+        {
+            "trait_type": "rank",
+            "value": "C"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "23.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

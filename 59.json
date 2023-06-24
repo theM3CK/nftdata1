@@ -1,0 +1,34 @@
+{
+    "name": "Fumo Maker #60",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: purple, hats: alien, soda: pepsi, rank: C.",
+    "external_url": "",
+    "image": "59.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "purple"
+        },
+        {
+            "trait_type": "hats",
+            "value": "alien"
+        },
+        {
+            "trait_type": "soda",
+            "value": "pepsi"
+        },
+        {
+            "trait_type": "rank",
+            "value": "C"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "59.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

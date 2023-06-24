@@ -1,0 +1,26 @@
+{
+    "name": "Fumo Maker #41",
+    "description": "This is unique art from Fumo Maker collection with random attributes: hair: black, hats: yellow halo.",
+    "external_url": "",
+    "image": "40.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "black"
+        },
+        {
+            "trait_type": "hats",
+            "value": "yellow halo"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "40.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}
